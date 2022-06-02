@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ButtonManager : MonoBehaviour
 {
@@ -59,5 +60,10 @@ public class ButtonManager : MonoBehaviour
     public void Restartbtn()
     {
         PlayerRgd.position = new Vector3(-1.5f, -3.5f, 0);
+    }
+
+    public void LoadingNewScene()
+    {
+        SceneManager.LoadScene(0);
     }
 }

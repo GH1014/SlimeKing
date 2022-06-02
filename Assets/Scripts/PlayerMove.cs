@@ -69,12 +69,12 @@ public class PlayerMove : MonoBehaviour
 
             rigid.AddForce(Vector2.up * jumpPower * Mathf.Clamp(time, 1, 2.5f), ForceMode2D.Impulse);
 
-            if (inputLeft || Input.GetKey(KeyCode.A))
+            if (inputLeft)
             {
                 rigid.AddForce(Vector2.left * jumpPower/2 * Mathf.Clamp(time, 1, 2.5f), ForceMode2D.Impulse);
 
             }
-            else if(inputRight || Input.GetKey(KeyCode.D))
+            else if(inputRight)
             {
                 rigid.AddForce(Vector2.right * jumpPower/2 * Mathf.Clamp(time, 1, 2.5f), ForceMode2D.Impulse);
             }
