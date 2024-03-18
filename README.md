@@ -1,9 +1,9 @@
 # SlimeKing
-![image](https://github.com/GH1014/SlimeKing/assets/95550744/8b95378b-aa25-4d0b-9f03-d0eeff3ec267)
+![image](https://github.com/GH1014/SlimeKing/assets/95550744/1c26fe52-3807-45bf-a1f0-cf398cab8dcb)
+
 
 "슬라임킹"은 안드로이드 플랫폼에서 플레이할 수 있는 플랫포머 장르의 게임으로, 플레이어는 슬라임이 되어 여러 도전적인 레벨을 통해 높은 곳에 도달해야 합니다. 
 
-(다양한 레벨)
 ![image](https://github.com/GH1014/SlimeKing/assets/95550744/e436f978-7842-4c75-b47d-7ea974b122b7)
 
 ![image](https://github.com/GH1014/SlimeKing/assets/95550744/2e48f703-7739-481c-b108-0403e5f82a5f)
@@ -16,7 +16,8 @@
 
 게임의 핵심 목표는 슬라임의 점프와 이동 능력을 이용하여 다양한 플랫폼을 오르내리며 레벨의 끝에 있는 목표지점. 슬라임 퀸을 만나는 것입니다.
 
-![image](https://github.com/GH1014/SlimeKing/assets/95550744/b097107f-ceae-406a-a7ed-99eb906556e8)
+![image](https://github.com/GH1014/SlimeKing/assets/95550744/cac27f04-e4cf-418d-a0f2-dcb271afaec6)
+
 
 
 •	슬라임 캐릭터 컨트롤: 플레이어는 슬라임 캐릭터를 컨트롤하여 좌우로 이동하고 점프할 수 있습니다. 정확한 점프 및 이동 조작이 필요합니다.
