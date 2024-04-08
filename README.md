@@ -24,9 +24,9 @@ C++, Unity
 
 **구동 스크린샷**
 
-![image](https://github.com/GH1014/SlimeKing/assets/95550744/cac27f04-e4cf-418d-a0f2-dcb271afaec6)
-
 ![image](https://github.com/GH1014/SlimeKing/assets/95550744/1c26fe52-3807-45bf-a1f0-cf398cab8dcb)
+
+![image](https://github.com/GH1014/SlimeKing/assets/95550744/cac27f04-e4cf-418d-a0f2-dcb271afaec6)
 
 ![image](https://github.com/GH1014/SlimeKing/assets/95550744/e436f978-7842-4c75-b47d-7ea974b122b7)
 
