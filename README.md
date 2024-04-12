@@ -42,7 +42,23 @@ C++, Unity
 
 **주요 코드**
 
+점프 시 효과음과 점프 키를 누른 시간에 비례하여 점프 높이가 상승하고, 보고 있는 방향으로 점프하는 함수
 
+```c++
+AudioChange(AudioJump, AudioSource);
+
+rigid.AddForce(Vector2.up * jumpPower * Mathf.Clamp(time, 1, 2.5f), ForceMode2D.Impulse);
+
+if (inputLeft)
+{
+    rigid.AddForce(Vector2.left * jumpPower/2 * Mathf.Clamp(time, 1, 2.5f), ForceMode2D.Impulse);
+
+}
+else if(inputRight)
+{
+    rigid.AddForce(Vector2.right * jumpPower/2 * Mathf.Clamp(time, 1, 2.5f), ForceMode2D.Impulse);
+}
+```
 
 --------------------------------------------------------
 
